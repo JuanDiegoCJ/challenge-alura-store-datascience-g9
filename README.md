@@ -12,8 +12,8 @@ Este proyecto realiza un estudio comparativo de rendimiento entre cuatro sucursa
 
 El desarrollo se ejecuto bajo una arquitectura de ramas para garantizar un historial limpio y modular:
 
-1. Rama main: Estado estable y final del proyecto.
-2. Rama dev: Integracion de todas las funcionalidades.
+1. Rama main: Estado inicial del proyecyo.
+2. Rama dev: Integracion final de todas las funcionalidades.
 3. Ramas feature: Desarrollo independiente por actividad:
    * feature/analisis-ingresos
    * feature/ventas-categoria
